@@ -8,7 +8,7 @@ const Home: React.FC = () => {
     <div style={{ backgroundColor: '#FFC7ED', display: 'flex', alignItems: 'center', justifyContent: 'center', height: '100vh' }}>
       <div style={{ display: 'flex', maxWidth: '800px' }}>
         <div style={{ flex: 1, textAlign: 'center' }}>
-          <h1 style={{ fontFamily: 'Arial, sans-serif', fontSize: '3em', fontWeight: 'bold', margin: 0 }}>Genesis</h1>
+          <h1 style={{ fontFamily: 'Arial, sans-serif', fontSize: '3em', fontWeight: 'bold', margin: 0 }}>bbdubz</h1>
         </div>
         <div id="splineView" style={{ flex: 1, textAlign: 'center' }}>
           {/* This is where the spline viewer will be rendered */}
